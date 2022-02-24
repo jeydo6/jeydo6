@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Vladimir Deryagin</h1>
 
-<!--
-**jeydo6/jeydo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Backend Engineer at [Promsvyazbank PJSC](https://www.psbank.ru/)
+- 🌱 I’m currently learning: Angular, CI/CD and German
+- 🤔 I’m looking for help with AWS and Azure
+- 📫 How to reach me: [E-Mail](mailto:Deryagin.Valdemar@yandex.ru) (preferred), [Telegram](https://t.me/jeydo6)
+- 💬 Ask me about anything :)
+- 😄 Pronouns: He
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <span>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydo6&count_private=true&show_icons=true&hide=stars,contribs&theme=dark&bg_color=0d1117&border_color=30363d" height="150px" />
+    </span>
+    <span>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeydo6&layout=compact&hide=html,css&theme=dark&bg_color=0d1117&border_color=30363d" height="150px" />
+    </span>
+</div>
