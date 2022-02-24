@@ -9,9 +9,9 @@
 
 <div align="center">
     <span>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydo6&count_private=true&show_icons=true&hide=stars,contribs&theme=dark&bg_color=0d1117&border_color=30363d" height="150px" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydo6&count_private=true&show_icons=true&hide=stars,contribs&theme=dark&bg_color=0d1117&border_color=30363d" height="140px" />
     </span>
     <span>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeydo6&layout=compact&hide=html,css&theme=dark&bg_color=0d1117&border_color=30363d" height="150px" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeydo6&layout=compact&hide=html,css&theme=dark&bg_color=0d1117&border_color=30363d" height="140px" />
     </span>
 </div>
