@@ -3,7 +3,7 @@
 - 💼 Backend Engineer at [Promsvyazbank PJSC](https://www.psbank.ru/)
 - 🌱 I’m currently learning: Angular, CI/CD and German
 - 🤔 I’m looking for help with AWS and Azure
-- 📫 How to reach me: [E-Mail](mailto:Deryagin.Valdemar@yandex.ru) (preferred), [Telegram](https://t.me/jeydo6)
+- 📫 How to reach me: [E-Mail](mailto:Deryagin.Valdemar@yandex.ru), [Telegram](https://t.me/jeydo6)
 - 💬 Ask me about anything :)
 - 😄 Pronouns: He
 
