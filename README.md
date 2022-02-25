@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vladimir Deryagin</h1>
 
 - 💼 Backend Engineer at [Promsvyazbank PJSC](https://www.psbank.ru/)
-- 🌱 I’m currently learning: Angular, CI/CD and German
+- 🌱 I’m currently learning: Angular, Docker and German
 - 🤔 I’m looking for help with AWS and Azure
 - 📫 How to reach me: [E-Mail](mailto:Deryagin.Valdemar@yandex.ru), [Telegram](https://t.me/jeydo6)
 - 💬 Ask me about anything :)
